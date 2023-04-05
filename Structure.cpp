@@ -3,7 +3,7 @@
 using namespace std;
 
 
-struct rectangle{
+struct Rectangle{
 
     int length;
     int breadth;
